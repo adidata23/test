@@ -1,0 +1,9 @@
+cover_page_title=New Cash Management System
+cover_page_subtitle=Liquid Management - Cash Pooling
+cover_page_author=Automation Team
+cover_page_tcid=Liquid Management - Cash Pooling
+header_title=New Cash Management System version 1.0.0
+header_author=Automation Team
+header_tools=Python 3.10, Selenium 4.11
+header_tcid=Liquid Management - Cash Pooling
+footer_center=NCMS
